@@ -37,3 +37,5 @@ Based on the table, it indicates that a total of 3 million rupees in revenue was
 This dashboard shows a complete array of expense, saving, income, and net worth generated averages these data show the area where money should be disbursed and how it also be saved, with a total revenue of 683k rupees of which 79% expenses and 14% savings generated a net income of 99k rupees which falls around 14%.
 
 It also shows a detailed report of a month-by-month analysis of all indices using the filter you are able to determine if saving or spending should be done and which portion should be left in liquid cash.
+
+![Finance dashboard](https://github.com/Ehistephen/Stephen-s-Portfolio/assets/113422753/a2503aae-54b9-4972-b2d4-d2be7f29a407)
