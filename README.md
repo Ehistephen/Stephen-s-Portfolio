@@ -12,6 +12,10 @@ The dashboard also highlights the top countries with active cases, including Ita
 Please note that the provided COVID-19 statistics are hypothetical and may not reflect the actual current situation. It's essential to refer to reliable sources such as the World Health Organization (WHO) or local health authorities for accurate and up-to-date information on COVID-19.
 
 
+![corona project](https://github.com/Ehistephen/Stephen-s-Portfolio/assets/113422753/79bac207-68db-41f6-be95-bb09b21a5247)
+
+
+
 
 
 # Project 2: Business Entity Dashboard
@@ -22,7 +26,7 @@ Master set( This dataset represents the workforce of a multinational business or
 The dashboard presents a summary of the workforce, highlighting key statistics. It shows that there are 16 departments within the organization, encompassing a total of 308 employees from 7 different countries.)
 
 
-
+![business entity](https://github.com/Ehistephen/Stephen-s-Portfolio/assets/113422753/cb6bfa9a-6a0d-41d0-bb95-e8a24705822e)
 
 # Project 3: Sales Dashboard
 This was part of a personal project and it was built to track the sales of specific items.
