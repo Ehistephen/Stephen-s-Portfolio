@@ -52,4 +52,6 @@ The performer dashboard provides a concise overview of the overall financial wel
 
 Additionally, the dashboard features interactive charts displaying the sum of approved fees, approved expenses, invoice savings, and average invoice savings. These visual aids enhance understanding and enable users to make informed decisions based on the financial data.
 
-Overall, the performer dashboard provides a comprehensive and user-friendly platform for assessing the financial health and performance of law firms, facilitating better financial management and strategic planning
+Overall, the performer dashboard provides a comprehensive and user-friendly platform for assessing the financial health and performance of law firms, facilitating better financial management and strategic planning.
+
+![IMG-20230720-WA0001](https://github.com/Ehistephen/Stephen-s-Portfolio/assets/113422753/8e4da51e-2624-419c-ad43-4802fa4e3802)
