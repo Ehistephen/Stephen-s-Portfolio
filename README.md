@@ -44,3 +44,12 @@ This dashboard shows a complete array of expense, saving, income, and net worth 
 It also shows a detailed report of a month-by-month analysis of all indices using the filter you are able to determine if saving or spending should be done and which portion should be left in liquid cash.
 
 ![Finance dashboard](https://github.com/Ehistephen/Stephen-s-Portfolio/assets/113422753/a2503aae-54b9-4972-b2d4-d2be7f29a407)
+
+
+# Project 5: Performer Dashboard
+
+The performer dashboard provides a concise overview of the overall financial well-being of law firms. Currently, there are 1,655 active matters, collectively spending a total of 257 million dollars at an average hourly rate of 528 dollars. Remarkably, these firms have managed to save an impressive 39 million dollars, which represents 13% of their total expenditure. For further analysis, the dashboard also presents the top 10 law firm savings, allowing users to apply specific filters and access relevant indices.
+
+Additionally, the dashboard features interactive charts displaying the sum of approved fees, approved expenses, invoice savings, and average invoice savings. These visual aids enhance understanding and enable users to make informed decisions based on the financial data.
+
+Overall, the performer dashboard provides a comprehensive and user-friendly platform for assessing the financial health and performance of law firms, facilitating better financial management and strategic planning
