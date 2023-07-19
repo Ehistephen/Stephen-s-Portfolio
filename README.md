@@ -35,6 +35,7 @@ Sales table(This sales table aims to analyze revenue, profit, and sales quantity
 
 Based on the table, it indicates that a total of 3 million rupees in revenue was generated, with a sales quantity of 3,520 units. The total profit margin achieved was 2.1 million rupees.)
 
+![Sales project](https://github.com/Ehistephen/Stephen-s-Portfolio/assets/113422753/646addf4-3891-49e4-8322-f22c52421081)
 
 
 # Project 4: Managing Your Finance
